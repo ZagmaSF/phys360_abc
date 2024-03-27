@@ -1,3 +1,3 @@
 # phys360_abc
 abc
-I intend to simulate a phase transition from Liquid to Plasma of metal slag by focusing on the heat change with pressure per minute onto a complex diagram.
+I throw myself off multiple high points and see how hard my body slams into concrete, rock, dirt, gravel, and a home and the entropy of this collision.
